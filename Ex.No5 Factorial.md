@@ -23,7 +23,8 @@ factorial(C,D),
 B is A*D.
 ```
 ### Output:
-![image](https://github.com/kaushik2022/AI_Lab_2023-24/assets/129837020/57909e54-b412-416c-8242-8972d42bba09)
+![image](https://github.com/kaushik2022/AI_Lab_2023-24/assets/129837020/3c390f87-ef0f-453a-ac73-a291a09c2691)
+
 
 
 ### Result:
