@@ -27,7 +27,8 @@ To write a logic program to design a circuit like half adder and half subtractor
 
 ### Output:
 
-![image](https://github.com/kaushik2022/AI_Lab_2023-24/assets/129837020/303ba9b9-478a-444e-af61-a8595189fd4b)
+![image](https://github.com/kaushik2022/AI_Lab_2023-24/assets/129837020/9205d3c8-10c3-492a-8311-cd485dbd484e)
+
 
 
 ### Result:
