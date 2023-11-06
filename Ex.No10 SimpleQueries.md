@@ -24,6 +24,9 @@ Construct the FOL representation for the following sentences <br>
 
 
 ### Output:
+![out put 10](https://github.com/kaushik2022/AI_Lab_2023-24/assets/129837020/3d8a80c8-f8d7-4fac-bffa-19e6985d29f4)
+
+
 
 ### Task 2:
 Consider the following facts and represent them in predicate form: <br>              
@@ -37,6 +40,9 @@ Convert the facts in predicate form to clauses and then prove by resolution: “
 
 
 ### Output:
+![out put 10](https://github.com/kaushik2022/AI_Lab_2023-24/assets/129837020/d14efd23-5eb2-42de-868c-89cc9b055c0c)
+
+
 
 ### Task 3:
 Consider the statement <br> 
@@ -46,6 +52,8 @@ Convert to Clause form and prove west is criminal by using Prolog.<br>
 
 
 ### Output:
+![out put 10](https://github.com/kaushik2022/AI_Lab_2023-24/assets/129837020/d0fc082d-4207-47e3-96b5-39b2cd9c799d)
+
 
 ### Result:
 Thus the prolog programs were executed successfully and the answer of query was found.
