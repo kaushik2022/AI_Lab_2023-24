@@ -33,7 +33,8 @@ move(M,Z,Y,X).
 
 ### Output:
 
-![image](https://github.com/kaushik2022/AI_Lab_2023-24/assets/129837020/8108bee0-04bc-43d2-af68-597a5bd44b38)
+![image](https://github.com/kaushik2022/AI_Lab_2023-24/assets/129837020/2cb66de2-61bd-4e95-b409-d198e13a24b2)
+
 
 
 
