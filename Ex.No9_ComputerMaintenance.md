@@ -42,7 +42,8 @@ problem(two_short_beeps).
 problem(blank_display). 
 ```
 ### Output:
-![image](https://github.com/kaushik2022/AI_Lab_2023-24/assets/129837020/35c171d4-9a82-4303-bf49-264c7c8bbf8e)
+![image](https://github.com/kaushik2022/AI_Lab_2023-24/assets/129837020/8b678856-7cda-41a7-9d4f-a8bf4e2418a8)
+
 
 
 
